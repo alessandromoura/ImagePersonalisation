@@ -1,0 +1,14 @@
+C:\Repos\ImagePersonalisation\OnPremisesAPI\bin\Debug\netcoreapp2.2\OnPremisesAPI.deps.json
+C:\Repos\ImagePersonalisation\OnPremisesAPI\bin\Debug\netcoreapp2.2\OnPremisesAPI.runtimeconfig.json
+C:\Repos\ImagePersonalisation\OnPremisesAPI\bin\Debug\netcoreapp2.2\OnPremisesAPI.runtimeconfig.dev.json
+C:\Repos\ImagePersonalisation\OnPremisesAPI\bin\Debug\netcoreapp2.2\OnPremisesAPI.dll
+C:\Repos\ImagePersonalisation\OnPremisesAPI\obj\Debug\netcoreapp2.2\OnPremisesAPI.csprojAssemblyReference.cache
+C:\Repos\ImagePersonalisation\OnPremisesAPI\obj\Debug\netcoreapp2.2\OnPremisesAPI.csproj.CoreCompileInputs.cache
+C:\Repos\ImagePersonalisation\OnPremisesAPI\obj\Debug\netcoreapp2.2\OnPremisesAPI.RazorAssemblyInfo.cache
+C:\Repos\ImagePersonalisation\OnPremisesAPI\obj\Debug\netcoreapp2.2\OnPremisesAPI.RazorAssemblyInfo.cs
+C:\Repos\ImagePersonalisation\OnPremisesAPI\obj\Debug\netcoreapp2.2\OnPremisesAPI.AssemblyInfoInputs.cache
+C:\Repos\ImagePersonalisation\OnPremisesAPI\obj\Debug\netcoreapp2.2\OnPremisesAPI.AssemblyInfo.cs
+C:\Repos\ImagePersonalisation\OnPremisesAPI\obj\Debug\netcoreapp2.2\OnPremisesAPI.RazorTargetAssemblyInfo.cache
+C:\Repos\ImagePersonalisation\OnPremisesAPI\bin\Debug\netcoreapp2.2\OnPremisesAPI.pdb
+C:\Repos\ImagePersonalisation\OnPremisesAPI\obj\Debug\netcoreapp2.2\OnPremisesAPI.dll
+C:\Repos\ImagePersonalisation\OnPremisesAPI\obj\Debug\netcoreapp2.2\OnPremisesAPI.pdb

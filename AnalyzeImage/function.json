@@ -1,0 +1,20 @@
+{
+  "bindings": [
+    {
+      "type": "eventGridTrigger",
+      "name": "eventGridEvent",
+      "direction": "in"
+    },
+    {
+      "name": "receivedImage",
+      "type": "blob",
+      "direction": "in"
+    },
+    {
+      "name": "approvedImage",
+      "type": "blob",
+      "direction": "out"
+    }
+  ],
+  "disabled": false
+}
